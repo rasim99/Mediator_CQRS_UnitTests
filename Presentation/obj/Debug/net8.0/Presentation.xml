@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Controllers.AuthController.RegisterAsync(Business.Features.Auth.Commands.AuthRegister.AuthRegisterCommand)">
+            <summary>
+            Register
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.AuthController.LoginAsync(Business.Features.Auth.Commands.AuthLogin.AuthLoginCommand)">
+            <summary>
+            Login
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.ProductController.GetAllProductAsync">
+            <summary>
+            List of products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.ProductController.GetProductAsync(System.Int32)">
+            <summary>
+            GetProduct
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.ProductController.CreateProductAsync(Business.Features.Product.Commands.CreateProduct.CreateProductCommand)">
+            <summary>
+             For creating Product
+            </summary>
+            <remarks>
+            <ul>
+            <li>  <b>Type:</b> <p> 0 - New 1 - Sold </p>  </li>
+            </ul>
+            </remarks>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.ProductController.UpdateProductAsync(System.Int32,Business.Features.Product.Commands.UpdateProduct.UpdateProductCommand)">
+            <summary>
+            Update of Product
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.ProductController.DeleteProductAsync(System.Int32)">
+            <summary>
+            Delete product
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.RoleController.GetAllRolesAsync">
+            <summary>
+            Roles List
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.UserController.GetAllUserAsync">
+            <summary>
+            Users List
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.UserRoleController.AddRoleToUserAsync(Business.Features.UserRole.Commands.AddRoleToUser.AddRoleToUserCommand)">
+            <summary>
+            Add Role To User
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

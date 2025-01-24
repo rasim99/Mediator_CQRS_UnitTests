@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\presentation\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\business\\features\\userrole\\commands\\addroletouser\\addroletouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|solutionrelative:business\\features\\userrole\\commands\\addroletouser\\addroletouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddRoleToUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Features\\UserRole\\Commands\\AddRoleToUser\\AddRoleToUserHandler.cs",
+              "RelativeDocumentMoniker": "Business\\Features\\UserRole\\Commands\\AddRoleToUser\\AddRoleToUserHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Features\\UserRole\\Commands\\AddRoleToUser\\AddRoleToUserHandler.cs",
+              "RelativeToolTip": "Business\\Features\\UserRole\\Commands\\AddRoleToUser\\AddRoleToUserHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:16:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserRoleController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UserRoleController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:10:08.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
