@@ -1,4 +1,5 @@
 ﻿using Business.Features.UserRole.Commands.AddRoleToUser;
+using Business.Features.UserRole.Commands.RemoveRoleFromUser;
 using Business.Wrappers;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -36,20 +37,20 @@ namespace Presentation.Controllers
             => await _mediator.Send(request);
 
 
-        //#region Documentation
-        ///// <summary>
-        ///// Remove Role from User
-        ///// </summary>
-        ///// <param name="model"></param>
-        ///// <returns></returns>
-        //[ProducesResponseType(typeof(Response), StatusCodes.Status200OK)]
-        //[ProducesResponseType(typeof(Response), StatusCodes.Status400BadRequest)]
-        //[ProducesResponseType(typeof(Response), StatusCodes.Status404NotFound)]
-        //[ProducesResponseType(typeof(Response), StatusCodes.Status500InternalServerError)]
-        //#endregion
+        #region Documentation
+        /// <summary>
+        /// Remove Role from User
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
+        [ProducesResponseType(typeof(Response), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(Response), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(Response), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(Response), StatusCodes.Status500InternalServerError)]
+        #endregion
 
-        //[HttpDelete]
-        //public async Task<Response> RemoveRoleFromUserAsync(UserRemoveRoleDto model)
-        //    => await _userRoleService.RemoveRoleFromUserAsync(model);
+        [HttpDelete]
+        public async Task<Response> RemoveRoleFromUserAsync(RemoveRoleFromUserCommand request)
+            => await _mediator.Send(request);
     }
 }
