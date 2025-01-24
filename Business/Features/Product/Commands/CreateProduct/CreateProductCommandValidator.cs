@@ -11,6 +11,8 @@ namespace Business.Features.Product.Commands.CreateProduct
             RuleFor(X => X.Price).GreaterThan(0).WithMessage("must be greater 0 ");
             RuleFor(x => x.Description).MinimumLength(10).MaximumLength(155).WithMessage("must be decsription characters count is 10 - 155");
             RuleFor(x => x.Type).IsInEnum().WithMessage("Type is incorrect ");
+
+            RuleFor(x => x.Photo).NotEmpty().WithMessage("Please enter photo");
             RuleFor(x => x.Photo).Must(IsCorrrectFormat).WithMessage("Incorrect format");
         }
         private bool IsCorrrectFormat(string photo)
