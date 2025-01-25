@@ -34,8 +34,7 @@
               "RelativeToolTip": "Business\\Features\\Product\\Queries\\GetProduct\\GetProductHandler.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:35:58.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T19:35:58.261Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "UnitTests\\Handlers\\Product\\Command\\CreateProductHandlerTests.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:35:33.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T19:35:33.064Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs",
               "RelativeToolTip": "UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCAAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T19:35:09.601Z",
               "EditorCaption": ""
