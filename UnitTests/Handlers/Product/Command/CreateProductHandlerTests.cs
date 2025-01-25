@@ -1,7 +1,8 @@
 ﻿
 using AutoMapper;
 using Business.Features.Product.Commands.CreateProduct;
-using Core.Constants.Enums;
+using Business.Wrappers;
+using Core.Entities;
 using Core.Exceptions;
 using Data.Repositories.Abstract.Product;
 using Data.UnitOfWork;
@@ -59,6 +60,26 @@ namespace UnitTests.Handlers.Product.Command
             var exception = await Assert.ThrowsAsync<ValidationException>(func);
             Assert.Contains("Already exist with this name", exception.Errors);
 
+        }
+
+        [Fact]
+        public async Task Handle_WhenFlowIsSucceeded_ShouldReturnResponseModel()
+        {
+            //Arrange
+            var request = CreateProductHandlerMockData.CreateProductCommandV2;
+            _productReadRepository.Setup(x => x.GetByNameAsync(request.Name))
+              .ReturnsAsync(value:null);
+            _mapper.Setup(x => x.Map<Core.Entities.Product>(request))
+                .Returns(new Core.Entities.Product());
+
+            //Act
+
+            var response = await _handler.Handle(request,It.IsAny<CancellationToken>());
+
+            //Assert
+
+            Assert.IsType<Response>(response);
+            Assert.Equal("Creating successful!",response.Message);
         }
 
     }
