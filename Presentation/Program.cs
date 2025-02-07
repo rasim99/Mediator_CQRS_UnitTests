@@ -14,6 +14,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
+using Serilog;
+using Business.Services.Producer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -105,35 +107,44 @@ builder.Services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddApplicationExtensions();
 #endregion
-//builder.Services.AddCors(builder =>
-//{
-//    builder.AddPolicy("AllowAll", options =>
-//    {
-//        options.AllowAnyOrigin()
-//            .AllowAnyMethod()
-//            .AllowAnyHeader();
-//    });
-//});
+builder.Services.AddCors(builder =>
+{
+    builder.AddPolicy("AllowAll", options =>
+    {
+        options.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+    });
+});
+
+Log.Logger=new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .CreateLogger();
+builder.Services.AddSerilog();
+
+builder.Services.AddScoped<IProducerService, ProducerService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 
 app.UseHttpsRedirection();
-//app.UseCors("AllowAll");
+app.UseCors("AllowAll");
 app.UseAuthorization();
-
-app.MapControllers();
-
-app.UseMiddleware<CustomExceptionMiddleware>();
 using (var scope = app.Services.CreateScope())
 {
+    var dbcontext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    await dbcontext.Database.MigrateAsync();
+
     var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
     await DbInitializer.SeedDataAsync(roleManager, userManager);
 }
+app.MapControllers();
+
+app.UseMiddleware<CustomExceptionMiddleware>();
 app.Run();

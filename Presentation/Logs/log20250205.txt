@@ -1,0 +1,77 @@
+2025-02-05 11:43:48.774 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:41:14.882 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:41:55.898 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:41:57.111 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:43:19.034 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:43:22.414 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)
+2025-02-05 22:43:23.640 +04:00 [ERR] Message: Error mapping types.
+
+Mapping types:
+List`1 -> List`1
+System.Collections.Generic.List`1[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Business.Features.Product.ProductDto, Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] , InnerException: AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Product -> ProductDto
+Core.Entities.Product -> Business.Features.Product.ProductDto
+   at lambda_method203(Closure, Product, ProductDto, ResolutionContext)
+   at lambda_method202(Closure, Object, List`1, ResolutionContext)

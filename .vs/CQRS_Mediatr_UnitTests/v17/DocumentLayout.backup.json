@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBB7E7C4-5531-4177-ADB5-1850EA43F6C7}|UnitTests\\UnitTests.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\unittests\\handlers\\product\\query\\getproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB7E7C4-5531-4177-ADB5-1850EA43F6C7}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\handlers\\product\\query\\getproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\business\\features\\product\\queries\\getproduct\\getproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|solutionrelative:business\\features\\product\\queries\\getproduct\\getproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBB7E7C4-5531-4177-ADB5-1850EA43F6C7}|UnitTests\\UnitTests.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\unittests\\handlers\\product\\command\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBB7E7C4-5531-4177-ADB5-1850EA43F6C7}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\handlers\\product\\command\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\presentation\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1305E4B-D73C-4AB9-AB32-F271D49AF7FD}|Presentation\\Presentation.csproj|solutionrelative:presentation\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2974EB2-8101-409D-8385-7F1099865321}|Core\\Core.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2974EB2-8101-409D-8385-7F1099865321}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2974EB2-8101-409D-8385-7F1099865321}|Core\\Core.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\core\\constants\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2974EB2-8101-409D-8385-7F1099865321}|Core\\Core.csproj|solutionrelative:core\\constants\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\business\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|solutionrelative:business\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\aspnetapi\\cqrs_mediatr_unittests\\business\\services\\producer\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D239A-E567-4874-89B7-CFBC0A1CE44A}|Business\\Business.csproj|solutionrelative:business\\services\\producer\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Features\\Product\\Queries\\GetProduct\\GetProductHandler.cs",
-              "RelativeDocumentMoniker": "Business\\Features\\Product\\Queries\\GetProduct\\GetProductHandler.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Features\\Product\\Queries\\GetProduct\\GetProductHandler.cs",
-              "RelativeToolTip": "Business\\Features\\Product\\Queries\\GetProduct\\GetProductHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:35:58.261Z"
+              "WhenOpened": "2025-02-07T17:02:26.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T17:01:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeToolTip": "Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:01:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T17:01:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:43:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Core\\Constants\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Core\\Constants\\Enums\\ProductType.cs",
+              "RelativeToolTip": "Core\\Constants\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:43:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CreateProductHandlerTests.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\UnitTests\\Handlers\\Product\\Command\\CreateProductHandlerTests.cs",
               "RelativeDocumentMoniker": "UnitTests\\Handlers\\Product\\Command\\CreateProductHandlerTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\UnitTests\\Handlers\\Product\\Command\\CreateProductHandlerTests.cs",
               "RelativeToolTip": "UnitTests\\Handlers\\Product\\Command\\CreateProductHandlerTests.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:35:33.064Z"
+              "WhenOpened": "2025-02-07T13:12:13.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetProductHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs",
-              "RelativeDocumentMoniker": "UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs*",
-              "RelativeToolTip": "UnitTests\\Handlers\\Product\\Query\\GetProductHandlerTests.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "Business\\MappingProfiles\\ProductMappingProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeToolTip": "Business\\MappingProfiles\\ProductMappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T19:35:09.601Z",
+              "WhenOpened": "2025-02-07T13:09:36.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Services\\Producer\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Producer\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\ASPNETAPI\\CQRS_Mediatr_UnitTests\\Business\\Services\\Producer\\ProducerService.cs",
+              "RelativeToolTip": "Business\\Services\\Producer\\ProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:58:17.896Z",
               "EditorCaption": ""
             }
           ]

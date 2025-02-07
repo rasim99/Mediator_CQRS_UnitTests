@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\bin\Release\net8.0\Core.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\bin\Release\net8.0\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\bin\Release\net8.0\Core.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\refint\Core.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\Core.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\ASPNETAPI\CQRS_Mediatr_UnitTests\Core\obj\Release\net8.0\ref\Core.dll
